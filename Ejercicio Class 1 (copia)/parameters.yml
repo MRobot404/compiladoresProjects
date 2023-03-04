@@ -1,4 +1,4 @@
-db_port: mysql
-db_name: testdata
+db_type: mysql
+db_name: info
 db_table_prefix: test
 db_port: 3306
